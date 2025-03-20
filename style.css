@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
 }
-.continer{
+.container{
     max-width: 300px;
     margin: 0 auto;
     
